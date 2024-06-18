@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an undergraduate at University of Westminster<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning frontend web development using react<br>💬 Ask me about UI and UX<br>⚡ Fun fact I love songs from different languages
+🔭 I’m currently an undergraduate at University of Westminster<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning frontend web development using angular and go<br>💬 Ask me about UI and UX<br>⚡ Fun fact I love songs from different languages
 
 
 ## 🌐 Socials:
